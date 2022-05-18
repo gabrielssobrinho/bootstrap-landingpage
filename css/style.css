@@ -78,15 +78,15 @@ html, body {
   color: #e54d26;
 }
 
-.fa-bold {
-  color: #563d7c;
+.fa-js-square {
+  color: #cabd2c;
 }
 
 .fa-css3 {
   color: #2163af;
 }
 
-.fa-code, .fa-bold, .fa-css3 {
+.fa-code, .fa-js-square, .fa-css3 {
   font-size: 4rem;
   margin: 1rem;
 }
