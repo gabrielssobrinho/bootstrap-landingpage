@@ -1,2 +1,11 @@
-# Projeto com bootstrap cujo o objetivo é a criação de um site totalmente responsivo.
- 
+# Netflix Clone
+
+Projeto com de uma hospedeira de sistemas web.
+
+## 🛠️ Tecnologias
+
+* Visual Studio Code.
+* Bootstrap.
+
+Acesse: https://gabrielssobrinho.github.io/wherehosting/.
+
