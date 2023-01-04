@@ -1,4 +1,4 @@
-# Netflix Clone
+# Wherehosting
 
 Projeto com de uma hospedeira de sistemas web.
 
